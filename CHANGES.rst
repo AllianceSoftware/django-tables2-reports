@@ -35,7 +35,7 @@ Releases
 * Fix some details
 * Test project
 * Thanks to:
-    * `Michał Pasternak <https://github.com/mpasternak>`_
+    * `Michal Pasternak <https://github.com/mpasternak>`_
     * `Mark Jones <https://github.com/mark0978>`_
 
 0.0.7 (2013-08-29)
